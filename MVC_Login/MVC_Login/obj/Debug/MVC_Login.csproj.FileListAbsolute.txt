@@ -1,0 +1,11 @@
+C:\3Serie E\MVC_Login\MVC_Login\bin\Debug\MVC_Login.exe.config
+C:\3Serie E\MVC_Login\MVC_Login\bin\Debug\MVC_Login.exe
+C:\3Serie E\MVC_Login\MVC_Login\bin\Debug\MVC_Login.pdb
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.csproj.AssemblyReference.cache
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.csproj.SuggestedBindingRedirects.cache
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.Properties.Resources.resources
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.csproj.GenerateResource.cache
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.csproj.CoreCompileInputs.cache
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.exe
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.pdb
+C:\3Serie E\MVC_Login\MVC_Login\obj\Debug\MVC_Login.FormLogin.resources
